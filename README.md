@@ -10,13 +10,13 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently working on: AI-powered cow skin disease detection system
-- 🤝 Open to collaborating on Web Development and AI/ML projects
-- 👯 I’m looking to collaborate on hackathons and open-source
-- 💡 Exploring: Django, REST APIs, Data Structures & Algorithms
-- 📚 Learning: GitHub Actions, Docker, System Design
-- 😄 Ask me about Python, DSA, or your next hackathon idea
-- ⚡ Fun fact: I believe debugging is the best teacher
+- 🔭 Currently working on: AI-powered cow skin disease detection system  
+- 🤝 Open to collaborating on Web Development and AI/ML projects  
+- 👯 I’m looking to collaborate on hackathons and open-source  
+- 💡 Exploring: Django, REST APIs, Data Structures & Algorithms  
+- 📚 Learning: GitHub Actions, Docker, System Design  
+- 😄 Ask me about Python, DSA, or your next hackathon idea  
+- ⚡ Fun fact: I believe debugging is the best teacher  
 
 ---
 
@@ -40,6 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Abhi-23-AK&show_icons=true&theme=radical&cache_bust=1" width="45%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-23-AK&layout=compact&theme=radical&cache_bust=1" width="45%">
 </p>
+
 ---
 
 ## 🏆 GitHub Profile Trophy
@@ -52,10 +53,9 @@
 
 ## 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-k-644341260/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-k-644341260/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhi-23-AK)
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Abhi-23-AK&left_color=green&right_color=blue)
-
+![visitors](https://komarev.com/ghpvc/?username=Abhi-23-AK&label=Profile%20Views&color=0e75b6&style=flat)
