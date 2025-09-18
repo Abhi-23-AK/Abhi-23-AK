@@ -1,0 +1,33 @@
+
+name: Refresh README stats (cache-bust)
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every 6 hours
+  workflow_dispatch:        # allows manual trigger from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Update cache-bust in README
+        run: |
+          TIMESTAMP=$(date +%s)
+          # replace all occurrences like cache_bust=1 with the new timestamp
+          perl -0777 -pe "s/cache_bust=\d+/cache_bust=$TIMESTAMP/g" README.md > README.tmp && mv README.tmp README.md
+
+      - name: Commit & push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore(readme): refresh stats cache-bust ($TIMESTAMP)" || echo "No changes to commit"
+          git push
