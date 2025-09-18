@@ -37,8 +37,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhi-23-AK&show_icons=true&theme=radical&cache_bust=1758171888" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-23-AK&layout=compact&theme=radical&cache_bust=1758171888" width="45%">
+ <img src="https://github-readme-stats.vercel.app/api?username=Abhi-23-AK&show_icons=true&theme=radical&cache_bust=1&token=${{ secrets.PAT_1 }}" width="45%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-23-AK&layout=compact&theme=radical&cache_bust=1&token=${{ secrets.PAT_1 }}" width="45%">
+
 </p>
 
 ---
