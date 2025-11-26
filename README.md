@@ -7,7 +7,7 @@
 
 <p align="center">
 🚀 Final-Year Information Science Engineering Student <br>
-💼 Python Full Stack Intern @ Sconti Pvt. Ltd. <br>
+💼 Python Full Stack Intern @ Scontinent Technologies Pvt. Ltd. <br>
 🤖 AI/ML Enthusiast | Backend Developer | Django Learner  
 </p>
 
@@ -42,7 +42,7 @@
 
 # 🏆 Achievements & Hackathons  
 
-![Hackathon](https://img.shields.io/badge/Hackathons-4-success?style=for-the-badge&color=purple)
+![Hackathon](https://img.shields.io/badge/Hackathons-6-success?style=for-the-badge&color=purple)
 ![Python Intern](https://img.shields.io/badge/Intern-Python%20Full%20Stack-blue?style=for-the-badge)
 ![Workshops](https://img.shields.io/badge/Workshop-Data%20Visualization%20%26%20PowerBI-orange?style=for-the-badge)
 ![AI/ML](https://img.shields.io/badge/Learning-AI%20%7C%20ML-green?style=for-the-badge)
@@ -75,7 +75,8 @@
 
 # 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhi-23-AK/Abhi-23-AK/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Abhi-23-AK/Abhi-23-AK/output/github-contribution-grid-snake.svg
+" />
 </p>
 
 ---
