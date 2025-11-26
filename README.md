@@ -36,16 +36,16 @@
 ![Ganache](https://img.shields.io/badge/Ganache-F5A623?style=for-the-badge&logo=ethereum&logoColor=white)
 ![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)
 
-
-
-
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abhi-23-AK&show_icons=true&count_private=true&theme=radical" width="45%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-23-AK&layout=compact&count_private=true&theme=radical" width="45%">
+  
+<!-- FIXED STATS (ALT SERVER — ALWAYS WORKS) -->
+<img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=Abhi-23-AK&show_icons=true&count_private=true&theme=radical&cache_seconds=7200" width="45%">
+
+<img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=Abhi-23-AK&layout=compact&count_private=true&theme=radical&cache_seconds=7200" width="45%">
 
 </p>
 
@@ -54,9 +54,29 @@
 ## 🏆 GitHub Profile Trophy
 
 <p align="center">
- 
- <img src="https://github-profile-trophy.vercel.app/?username=Abhi-23-AK&theme=darkhub&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhi-23-AK&theme=darkhub&margin-w=15&margin-h=15"/>
 </p>
+
+---
+
+## 🔗 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-k-644341260/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhi-23-AK)
+
+---
+
+![visitors](https://komarev.com/ghpvc/?username=Abhi-23-AK&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
+## 🔥 GitHub Streak (Fixed)
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Abhi-23-AK&theme=radical&hide_border=false" />
+</p>
+
+---
 
 
 ---
