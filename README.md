@@ -79,16 +79,4 @@
 ---
 
 
----
-
-## 🔗 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-k-644341260/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhi-23-AK)
-
----
-
-![visitors](https://komarev.com/ghpvc/?username=Abhi-23-AK&label=Profile%20Views&color=0e75b6&style=flat)
----
-![Abhi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhi-23-AK&theme=radical)
----
+--
