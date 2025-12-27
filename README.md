@@ -8,7 +8,7 @@
 <p align="center">
 🚀 Final-Year Information Science Engineering Student <br>
 💼 Python Full Stack Intern @ Scontinent Technologies Pvt. Ltd. <br>
-🤖 AI/ML Enthusiast | Backend Developer | Django Learner  
+🤖 AI/ML Enthusiast | Backend Developer | Django And Flask Learner  
 </p>
 
 ---
