@@ -52,9 +52,8 @@
 # 📊 GitHub Stats  
 
 <p align="center">
-  <!-- Private GitHub Stats Server -->
-  <img src="https://abhi-githubstats.vercel.app/api?username=Abhi-23-AK&show_icons=true&theme=radical" width="45%">
-  <img src="https://abhi-githubstats.vercel.app/api/top-langs/?username=Abhi-23-AK&layout=compact&theme=radical" width="45%">
+  <img src="https://github-readme-stats-black-chi-14.vercel.app/api?username=Abhi-23-AK&show_icons=true&theme=radical" width="45%">
+  <img src="https://github-readme-stats-black-chi-14.vercel.app/api/top-langs/?username=Abhi-23-AK&layout=compact&theme=radical" width="45%">
 </p>
 
 ---
@@ -75,8 +74,7 @@
 
 # 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhi-23-AK/Abhi-23-AK/output/github-contribution-grid-snake.svg
-" />
+  <img src="https://raw.githubusercontent.com/Abhi-23-AK/Abhi-23-AK/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
