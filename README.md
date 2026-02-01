@@ -71,22 +71,14 @@
 
 
 ---
-
 ## 🏆 GitHub Trophy
 <p align="center">
-  <img
-    src="https://github-readme-stats-black-chi-14.vercel.app/api/trophy?username=Abhi-23-AK&theme=matrix&no-frame=true&column=4"
-    alt="GitHub Trophy"
-  />
-</p>
-
-## 🏆 GitHub Trophy
-<p align="center">
-  <img
+  <img 
     src="https://github-profile-trophy.vercel.app/?username=Abhi-23-AK&theme=matrix&no-frame=true&column=4"
     alt="GitHub Trophy"
   />
 </p>
+
 
 
 
