@@ -58,17 +58,21 @@
 
 ---
 
+ 
 # 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://abhi-githubstreak.vercel.app/?user=Abhi-23-AK&theme=radical" width="70%">
+  <img src="https://streak-stats.demolab.com?user=Abhi-23-AK&theme=radical&hide_border=true" />
 </p>
+
 
 ---
 
+  
 # 🏆 GitHub Trophy  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhi-23-AK&theme=matrix&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhi-23-AK&theme=matrix&no-frame=true&margin-w=15" />
 </p>
+
 
 ---
 
