@@ -80,6 +80,13 @@
   />
 </p>
 
+## 🏆 GitHub Trophy
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Abhi-23-AK&theme=matrix&no-frame=true&column=4"
+    alt="GitHub Trophy"
+  />
+</p>
 
 
 
