@@ -58,33 +58,44 @@
 
 ---
 
- 
-## 🔥 GitHub Streak  
-
+## 🔥 GitHub Streak
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Abhi-23-AK&theme=radical&hide_border=true&cache_seconds=86400"
+    src="https://streak-stats.demolab.com?user=Abhi-23-AK&theme=orange&hide_border=true&ring=FFA500&fire=FFA500&currStreakLabel=FFA500"
     alt="GitHub Streak"
   />
 </p>
 
 
 
+
 ---
-## 🏆 GitHub Trophy
+## 📌 GitHub Summary
+
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhi-23-AK&theme=radical" />
+
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Abhi-23-AK&theme=matrix&no-frame=true&column=4"
-    alt="GitHub Trophy"
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhi-23-AK&theme=github_dark"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhi-23-AK&theme=github_dark"
   />
 </p>
 
 
-
+---
+## 📈 GitHub Rank & Activity
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi-23-AK&theme=react-dark&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
 
 ---
 
-# 🐍 Contribution Snake  
+## 🐍 Contribution Snake  
 <p align="center">
   <img src="https://raw.githubusercontent.com/Abhi-23-AK/Abhi-23-AK/output/github-contribution-grid-snake.svg" />
 </p>
